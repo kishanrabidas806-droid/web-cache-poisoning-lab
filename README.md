@@ -8,11 +8,8 @@ When successful, the application will display:
 
 🎉 LAB SOLVED!
 
-## Hint
+Objective:
+Poison the cache and make another visitor receive a response containing your chosen host.
 
-Look for headers that affect the response but are not included in the cache key.
-
-## Ports
-
-Backend: 5000
-Cache: 4001
+Hint:
+Look for headers that influence the response but may not be included in the cache key.
